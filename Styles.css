@@ -1,0 +1,10 @@
+
+h1 {font-size: 60px; color: black; font-family: Georgia, 'Times New Roman', Times, serif; font-style: bold;}
+h2 {font-size: 30px; color: black; font-family: Georgia, 'Times New Roman', Times, serif;}
+h3 {font-size: 18px; color: black; font-family: Georgia, 'Times New Roman', Times, serif;}
+body {background-color:lightgrey; font-family: 'Times New Roman', Times, serif;}
+hr {color: black;}
+li {font-size: 15px; color: rgb(0, 0, 0); font-family: 'Times New Roman', Times, serif;}
+.box{border-width: 1px; border-style: solid; padding: 10px;}
+a:hover {font-style: bold; font-size: 20px;}
+body{margin-left: 150px; margin-right: 150px;}
